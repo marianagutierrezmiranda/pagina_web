@@ -1,0 +1,4 @@
+blinker 
+simplejson 
+python-dotenv
+watchdog
