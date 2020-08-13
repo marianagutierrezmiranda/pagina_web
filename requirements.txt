@@ -3,3 +3,6 @@ simplejson
 python-dotenv
 watchdog
 Flask
+Flask-SQLAlchemy
+mariadb
+flask_restful
